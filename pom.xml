@@ -11,9 +11,9 @@
 	<groupId>webcloud.app</groupId>
 	<artifactId>webcloud.app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>webcloud.app</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot Java app</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -47,5 +47,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+		
 </project>
